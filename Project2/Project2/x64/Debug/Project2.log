@@ -1,0 +1,6 @@
+﻿  News.cpp
+C:\Users\gerges\source\repos\Project2\Project2\News.h(5,9): error C3646: 'title': unknown override specifier
+C:\Users\gerges\source\repos\Project2\Project2\News.h(5,15): error C2059: syntax error: ','
+C:\Users\gerges\source\repos\Project2\Project2\News.h(5,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\gerges\source\repos\Project2\Project2\News.h(12,9): error C3646: 'cat': unknown override specifier
+C:\Users\gerges\source\repos\Project2\Project2\News.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
